@@ -40,7 +40,5 @@ Built with **React.js** for a responsive and dynamic interface, the app fetches 
 - Enhance UI with more visualization options
 - Provide historical COVID-19 trends in charts
 
-## Screenshots
-*(Add screenshots of your dashboard here, e.g., country cards, charts, and login page)*
 
 
